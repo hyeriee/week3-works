@@ -1,0 +1,80 @@
+.box {
+	width: 200px;
+	height: 300px;
+	background-color: f2f2f2;
+	position: fixed;
+}
+
+.box1 {
+	width: 200px;
+	height: 500px;
+	background-color: f2f2f2;
+	position: fixed;
+}
+
+.box2 {
+	width: 200px;
+	height: 250px;
+	background-color: blue;
+	position: fixed;
+	right: 0px;
+}
+
+.red-box {
+	width: 88%;
+	height: 710px;
+	background-color: red;
+	position: fixed;
+}
+
+.box4 {
+	width: 1300px;
+	height: 250px;
+	background-color: f2f2f2;
+	position: fixed;
+	right: 0px;
+}
+
+.small-box {
+	width: 155px;
+	height: 130px;
+	background-color: f2f2f2;
+	position: fixed;
+}
+
+.solid {
+	width: 25px;
+	height: 100%;
+	background-color: black;
+	position: fixed;
+	left: 200px;
+}
+
+.short-solid {
+	width: 200px;
+	height: 50px;
+	background-color: black;
+	position: fixed;
+}
+
+.short-narrow-solid {
+	width: 25px;
+	height: 250px;
+	background-color: black;
+	position: fixed;
+}
+
+.short-narrow-solid2 {
+	width: 180px;
+	height: 30px;
+	background-color: black;
+	position: fixed;
+}
+
+.solid2 {
+	width: 100%;
+	height: 25px;
+	background-color: black;
+	position: fixed;
+	top: 700px;
+}
